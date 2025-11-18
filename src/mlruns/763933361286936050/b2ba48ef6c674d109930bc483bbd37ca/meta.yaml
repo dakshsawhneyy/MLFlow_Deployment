@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/763933361286936050/b2ba48ef6c674d109930bc483bbd37ca/artifacts
+end_time: 1763468615235
+entry_point_name: ''
+experiment_id: '763933361286936050'
+lifecycle_stage: active
+run_id: b2ba48ef6c674d109930bc483bbd37ca
+run_name: languid-lark-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763468583435
+status: 3
+tags: []
+user_id: dakshsawhneyy

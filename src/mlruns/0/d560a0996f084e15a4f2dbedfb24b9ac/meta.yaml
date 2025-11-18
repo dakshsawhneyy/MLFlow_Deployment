@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d560a0996f084e15a4f2dbedfb24b9ac/artifacts
+end_time: 1763469270613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d560a0996f084e15a4f2dbedfb24b9ac
+run_name: fortunate-wolf-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763469209760
+status: 3
+tags: []
+user_id: dakshsawhneyy
