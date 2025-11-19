@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/763933361286936050/01c62a59c2ef4d55971a7ce1185ccbcc/artifacts
+end_time: 1763554562359
+entry_point_name: ''
+experiment_id: '763933361286936050'
+lifecycle_stage: active
+run_id: 01c62a59c2ef4d55971a7ce1185ccbcc
+run_name: abundant-robin-284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763554512480
+status: 3
+tags: []
+user_id: dakshsawhneyy

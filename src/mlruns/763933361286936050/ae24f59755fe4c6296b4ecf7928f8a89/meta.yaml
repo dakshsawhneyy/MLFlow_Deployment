@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/763933361286936050/ae24f59755fe4c6296b4ecf7928f8a89/artifacts
+end_time: 1763554478892
+entry_point_name: ''
+experiment_id: '763933361286936050'
+lifecycle_stage: active
+run_id: ae24f59755fe4c6296b4ecf7928f8a89
+run_name: serious-goat-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763554477003
+status: 4
+tags: []
+user_id: dakshsawhneyy
